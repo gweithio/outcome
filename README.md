@@ -27,7 +27,7 @@ A C++ template class to allow two possible return types, such as a success or er
 
 ### Usage
 
-```
+```cpp
 #include <cstdio>
 #include <outcome/outcome.hpp>
 #include <string>
